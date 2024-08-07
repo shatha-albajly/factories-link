@@ -21,11 +21,6 @@ const config: Config = {
         secondary: "#2F2B3DB2",
         offWhite: "#F7F9FC",
       },
-
-      backgroundImage: {
-        customGradient:
-          "linear-gradient(204.37deg, rgba(234, 91, 11, 0.12) 27.11%, #FFE7E8 94.65%)",
-      },
     },
     screens: {
       sm: "640px",
